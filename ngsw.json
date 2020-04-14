@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1586875815983,
+  "timestamp": 1586877622271,
   "index": "https://chiragrupani.github.io/NgApp/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "https://chiragrupani.github.io/NgApp/favicon.ico",
         "https://chiragrupani.github.io/NgApp/index.html",
-        "https://chiragrupani.github.io/NgApp/main-es2015.e05ccd6edc60033cae3b.js",
-        "https://chiragrupani.github.io/NgApp/main-es5.e05ccd6edc60033cae3b.js",
+        "https://chiragrupani.github.io/NgApp/main-es2015.78e83a8684a3a48ba774.js",
+        "https://chiragrupani.github.io/NgApp/main-es5.78e83a8684a3a48ba774.js",
         "https://chiragrupani.github.io/NgApp/manifest.webmanifest",
         "https://chiragrupani.github.io/NgApp/polyfills-es2015.690002c25ea8557bb4b0.js",
         "https://chiragrupani.github.io/NgApp/polyfills-es5.9e286f6d9247438cbb02.js",
@@ -49,9 +49,9 @@
     "https://chiragrupani.github.io/NgApp/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://chiragrupani.github.io/NgApp/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://chiragrupani.github.io/NgApp/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://chiragrupani.github.io/NgApp/index.html": "1dfd05aeb4d94e351f7d57b53bd770247b2858eb",
-    "https://chiragrupani.github.io/NgApp/main-es2015.e05ccd6edc60033cae3b.js": "bda60cfa6d5de85c7d5d4200a03d1b236dc42a4a",
-    "https://chiragrupani.github.io/NgApp/main-es5.e05ccd6edc60033cae3b.js": "bb937a3ae44ff3564696583b45a4e1566c17c2be",
+    "https://chiragrupani.github.io/NgApp/index.html": "a23b33ca74b3a38d988dd2fbda3dc2fe1786f973",
+    "https://chiragrupani.github.io/NgApp/main-es2015.78e83a8684a3a48ba774.js": "bda60cfa6d5de85c7d5d4200a03d1b236dc42a4a",
+    "https://chiragrupani.github.io/NgApp/main-es5.78e83a8684a3a48ba774.js": "bb937a3ae44ff3564696583b45a4e1566c17c2be",
     "https://chiragrupani.github.io/NgApp/manifest.webmanifest": "2351fdf190cf5f81bb553c18390fb30d61321be6",
     "https://chiragrupani.github.io/NgApp/polyfills-es2015.690002c25ea8557bb4b0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "https://chiragrupani.github.io/NgApp/polyfills-es5.9e286f6d9247438cbb02.js": "e51a1de4f016cd689dbdbef51043dec9518c4111",
