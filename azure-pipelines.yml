@@ -44,7 +44,7 @@ steps:
     inputs:
       testResultsFormat: "JUnit"
       testResultsFiles: "$(System.DefaultWorkingDirectory)/junit.xml"
-      testRunTitle: "Publish React Tests Results"
+      testRunTitle: "Publish Angular Tests Results"
 
   - task: PublishCodeCoverageResults@1
     inputs:

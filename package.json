@@ -11,7 +11,7 @@
     "e2e": "ng e2e",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "coverage": "ng t --no-watch --code-coverage --reporters=junit,coverage-istanbul --browsers=ChromeHeadless --progress=false --coverageReporters=cobertura --coverageReporters=text"
+    "coverage": "ng t --no-watch --code-coverage --reporters=junit,coverage-istanbul --browsers=ChromeHeadless --progress=false"
   },
   "private": true,
   "dependencies": {
