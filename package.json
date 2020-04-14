@@ -10,7 +10,8 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "predeploy": "npm run build -- --prod=true --base-href=https://chiragrupani.github.io/NgApp/",
-    "deploy": "@powershell copy dist/ngApp/index.html dist/ngApp/404.html && gh-pages -d dist/ngapp",
+    "deployW": "@powershell copy dist/ngApp/index.html dist/ngApp/404.html && gh-pages -d dist/ngapp",
+    "deploy": "cp dist/ngApp/index.html dist/ngApp/404.html && gh-pages -d dist/ngapp",
     "coverage": "ng t --no-watch --code-coverage --reporters=junit,coverage-istanbul --browsers=ChromeHeadless --progress=false"
   },
   "private": true,
