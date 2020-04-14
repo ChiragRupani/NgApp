@@ -43,7 +43,7 @@ steps:
   - task: PublishTestResults@2
     inputs:
       testResultsFormat: "JUnit"
-      testResultsFiles: "$(System.DefaultWorkingDirectory)/Test*.xml"
+      testResultsFiles: "$(System.DefaultWorkingDirectory)/TEST*.xml"
       testRunTitle: "Publish Angular Tests Results"
 
   - task: PublishCodeCoverageResults@1

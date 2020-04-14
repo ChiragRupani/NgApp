@@ -1,7 +1,7 @@
 {
   "name": "ngapp",
   "version": "0.0.0",
-  "homepage": "https://chiragrupani.github.io/NgApp/",
+  "homepage": "https://chiragrupani.github.io/NgApp",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -9,8 +9,8 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist/ngapp",
+    "predeploy": "npm run build -- --prod=true --base-href=https://chiragrupani.github.io/NgApp/",
+    "deploy": "@powershell copy dist/ngApp/index.html dist/ngApp/404.html && gh-pages -d dist/ngapp",
     "coverage": "ng t --no-watch --code-coverage --reporters=junit,coverage-istanbul --browsers=ChromeHeadless --progress=false"
   },
   "private": true,
@@ -23,6 +23,7 @@
     "@angular/platform-browser": "~9.1.1",
     "@angular/platform-browser-dynamic": "~9.1.1",
     "@angular/router": "~9.1.1",
+    "@angular/service-worker": "~9.1.1",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
