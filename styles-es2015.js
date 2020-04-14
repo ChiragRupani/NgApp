@@ -329,7 +329,7 @@ module.exports = exported;
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! F:\GitWork\Repos\React\ngapp\src\styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! /home/vsts/work/1/s/src/styles.css */"./src/styles.css");
 
 
 /***/ })

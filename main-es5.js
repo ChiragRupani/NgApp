@@ -1059,7 +1059,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
   /***/
   function _(module, exports, __webpack_require__) {
     module.exports = __webpack_require__(
-    /*! F:\GitWork\Repos\React\ngapp\src\main.ts */
+    /*! /home/vsts/work/1/s/src/main.ts */
     "./src/main.ts");
     /***/
   }

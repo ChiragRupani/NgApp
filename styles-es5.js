@@ -340,7 +340,7 @@
   /***/
   function _(module, exports, __webpack_require__) {
     module.exports = __webpack_require__(
-    /*! F:\GitWork\Repos\React\ngapp\src\styles.css */
+    /*! /home/vsts/work/1/s/src/styles.css */
     "./src/styles.css");
     /***/
   }
